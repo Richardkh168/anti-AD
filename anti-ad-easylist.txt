@@ -3813,8 +3813,7 @@
 ||aliguojw.com^
 ||gmonitor.aliimg.com^
 ||alikeaddition.com^
-||alimama.cn^
-||alimama.com^
+||video.da.mgtv.com^
 ||alimb.top^
 ||alimc1.top^
 ||alinxc.com^
