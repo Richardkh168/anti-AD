@@ -2,6 +2,8 @@
 !VER=20200731211136
 !URL=https://github.com/privacy-protection-tools/anti-AD
 !TOTAL_LINES=34850
+https://apd-93cf46929bebea6255729486179231ff.v.smtcdns.com/moviets.tc.qq.com/AC9lAe2JFQ8a6d-3yUkmRQJJnjg6cTh7yHLTZHHWM10s/uwMROfz2r5zAoaQXGdGnC2df644E7D3uP8M8pmtgwsRK9nEL/Y8Ob3jnMYLI_EutHILIaPvgsAJOI5qxDmCAfeVSlUMnHUGhVp1H7OLZPFu1jS_DcPKeD5f_BItzKAtEHCwQcUKCpMkpIyI_LbvrSEPU7GxbanBgfNQ5pmulbLtuzW8goeG0BrjWUuiitDdhbEprUf92nhBR3HtKWUVfZSNXPre0/06_w0034nsja3v.321002.1.ts?index=6&start=61640&end=70600&brs=10566916&bre=11605239&ver=4
+||*.v.smtcdns.com^
 ||vhotwsh.video.qq.com^
 ||*.wap.xsbiquge.com^
 ||*serror*.wo.com.cn^
