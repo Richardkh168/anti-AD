@@ -3777,7 +3777,6 @@
 ||alibdm.xyz^
 ||alibdn.xyz^
 ||alibestru.ru^
-||alimama.alicdn.com^
 ||atanx.alicdn.com^
 ||handycam.alicdn.com^
 ||nbsdk-baichuan.alicdn.com^
