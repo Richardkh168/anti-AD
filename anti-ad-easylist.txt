@@ -5,3 +5,4 @@
 ||mobgslb.tbcache.com^
 ||uccdnct.inter.71edge.com^
 ||qcloudcdnct.inter.71edge.com^
+||*.ott.cibntv.net^
