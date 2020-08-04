@@ -23,3 +23,4 @@
 ||omgmta.play.cp81.ott.cibntv.net^
 ||val.atm.cp31.ott.cibntv.net^
 ||valf.atm.cp31.ott.cibntv.net^
+||vali-g1.cp31.ott.cibntv.net^
