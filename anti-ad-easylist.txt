@@ -5,6 +5,7 @@
 ||mobgslb.tbcache.com^
 ||uccdnct.inter.71edge.com^
 ||qcloudcdnct.inter.71edge.com^
+||*.*.ott.cibntv.net^
 ||aty.cp45.ott.cibntv.net^
 ||pl.cp31.ott.cibntv.net^
 ||qr.cp31.ott.cibntv.net^
