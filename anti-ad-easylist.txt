@@ -24,3 +24,6 @@
 ||val.atm.cp31.ott.cibntv.net^
 ||valf.atm.cp31.ott.cibntv.net^
 ||vali-g1.cp31.ott.cibntv.net^
+||ltsws.qq.com^
+||ltsbsy.qq.com^
+||ltscsy.qq.com^
